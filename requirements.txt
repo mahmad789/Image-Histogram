@@ -7,6 +7,7 @@ streamlit
 opencv-python
 numpy
 pillow
+opencv-python-headless
 matplotlib
 streamlit
 opencv-python
