@@ -15,3 +15,5 @@ numpy
 pillow
 matplotlib
 streamlit-extras
+opencv-python-headless
+opencv-python
